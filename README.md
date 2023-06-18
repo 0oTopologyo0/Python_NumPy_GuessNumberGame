@@ -1,8 +1,13 @@
 # The_Guess_Number_Game  
 這是一個猜數字(1A2B)的遊戲  
 This is a guessing number game.  
-編輯環境是使用Visual Studio Code，其中有使用到numpy模組，請在使用前pip install numpy  
+  
+編輯環境是使用Visual Studio Code  
+程式編譯使用VS code及Python語言  
+需要先安裝Python  
+其中有使用到numpy模組，請在使用前pip install numpy  
 Editor is Visual Studio Code.  
+Please install Python first.  
 The code include numpy.  
 Please 'pip install numpy' in your terminal before you use this code.  
   
