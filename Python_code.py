@@ -12,7 +12,7 @@ while len(string) < 4:
         string += str(Test)
 
 ## 設定玩家猜題的輸入
-#函數設置 and 導入模組
+#函數設置 and 導入numpy模組
 from numpy import char
 GUESS_string = ""
 Test_number = 8
